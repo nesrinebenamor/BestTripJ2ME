@@ -1,0 +1,8 @@
+MIDlet-1: GlobalMidlet, , Midlet.GlobalMidlet
+MIDlet-Jar-Size: 2288880
+MIDlet-Jar-URL: MobileAppUtilisateur.jar
+MIDlet-Name: MobileAppUtilisateur
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
